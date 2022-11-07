@@ -1,4 +1,4 @@
-- Plataformas de tablaturas populares
+# Plataformas de tablaturas populares
   - [Ultimate Guitar](https://www.ultimate-guitar.com)
 
   ![ultimateguitar](/utils/ultimateguitar.png)
