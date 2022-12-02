@@ -30,3 +30,7 @@
 A aplicação usada para a criação do Wireframe foi [Pencil Project](https://pencil.evolus.vn/)
 
 ![pencil](/utils/pencil.png)
+
+### Alguns tutoriais que segui:
+
+- https://www.youtube.com/watch?v=wT64vMT1Ax0
