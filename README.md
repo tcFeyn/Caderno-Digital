@@ -24,3 +24,9 @@
   Esta plataforma é bastante popular também principalmente no Brasil pois foi criada e gerida por brasileiros, em termos de "features" é bastante parecida com o Ultimate Guitar, porém a qualidade das tablaturas não é tão boa.
   
   Em todas as plataformas existe uma versão web e mobile, uma diferença é que a aplicação Ultimate Guitar é paga desde o início enquanto as outras são como o website em termos de features grátis e pagas.
+
+# Pencil
+
+A aplicação usada para a criação do Wireframe foi [Pencil Project](https://pencil.evolus.vn/)
+
+![pencil](/utils/pencil.png)
