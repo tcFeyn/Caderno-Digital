@@ -31,6 +31,13 @@ A aplicação usada para a criação do Wireframe foi [Pencil Project](https://p
 
 ![pencil](/utils/pencil.png)
 
+
+# Adobe XD
+
+A aplicação usada para a criação do portótipo de alta fiddelidade foi [Adobe XD](https://helpx.adobe.com/xd/get-started.html)
+
+
+![adobexd](/utils/adobexd.png)
 ### Alguns tutoriais que segui:
 
 - https://www.youtube.com/watch?v=wT64vMT1Ax0 (Pencil Project)
