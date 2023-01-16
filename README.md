@@ -33,4 +33,5 @@ A aplicação usada para a criação do Wireframe foi [Pencil Project](https://p
 
 ### Alguns tutoriais que segui:
 
-- https://www.youtube.com/watch?v=wT64vMT1Ax0
+- https://www.youtube.com/watch?v=wT64vMT1Ax0 (Pencil Project)
+- https://www.youtube.com/watch?v=Vry7PjXXqAE&list=PLwgL9IEA0PxUYkGL6N4bsQitv16uMwNV8 (Adobe XD)
